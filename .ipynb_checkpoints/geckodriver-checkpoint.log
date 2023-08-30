@@ -1,0 +1,24 @@
+1693417307573	geckodriver	INFO	Listening on 127.0.0.1:53905
+1693417308062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mp/2rmhnljs2pndsyqr32kfmxcr0000gn/T/rust_mozprofileRbhy1F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693417309239	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693417309535	Marionette	INFO	Listening on port 53913
+Read port: 53913
+WebDriver BiDi listening on ws://127.0.0.1:53906
+1693417309698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53906/devtools/browser/79177cab-9351-4a23-ab8e-7c07f9ed6b86
+1693417319969	Marionette	INFO	Stopped listening on port 53913
+1693417862032	geckodriver	INFO	Listening on 127.0.0.1:54203
+1693417862045	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mp/2rmhnljs2pndsyqr32kfmxcr0000gn/T/rust_mozprofilezTVT8i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693417862878	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693417863173	Marionette	INFO	Listening on port 54209
+Read port: 54209
+WebDriver BiDi listening on ws://127.0.0.1:54204
+1693417863488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54204/devtools/browser/46eb96ad-be9e-48ba-b746-070ec2cd4751
+1693418368456	Marionette	INFO	Stopped listening on port 54209
